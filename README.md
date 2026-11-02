@@ -1,4 +1,8 @@
 # 🚆 Railway Platform Crowd Management System
+AKSHAT SINGH SAMBYAL
+UID: 26BAI0096
+Chandigarh University
+B.Tech CSE (AI)
 
 ## 📌 Project Overview
 
